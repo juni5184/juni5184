@@ -2,7 +2,7 @@
 
 <h4>My Git Status</h4>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juni5184&show_icons=true&theme={theme})](https://github.com/juni5184/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juni5184&show_icons=true&theme={theme})](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h4>Top Language</h4>
