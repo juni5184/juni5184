@@ -8,7 +8,7 @@
 ## Tech Stack
 
 ### Artificial Intelligence
-<img src="https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-ff6f00?&style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?&style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  <img src="https://img.shields.io/badge/Junpyter-f37626?&style=flat-square&logo=Jupyter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-ff6f00?&style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?&style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 
 ### Android
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-3DDC84?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
